@@ -32,31 +32,6 @@ Six-chart executive dashboard highlighting key performance drivers
 
 All outputs are linked dynamically to underlying operating assumptions to ensure transparency and traceability.
 
-## Executive Dashboard
-
-### KPIs & Revenue Drivers
-![SaaS Executive Dashboard Top](assets/SaaS%20Executive%20Dashboard%20Top.png)
-
-### Margins & Profitability Impact
-![SaaS Executive Dashboard Bottom](assets/SaaS%20Executive%20Dashboard%20Bottom.png)
-
----
-
-## Core Model Drivers
-
-### Assumptions
-![SaaS Assumptions](assets/SaaS%20Assumptions.png)
-
-### Customer & ARR Build
-![SaaS Customer ARR Build](assets/SaaS%20Customer%20ARR%20Build.png)
-
-### Operating Margin (P&L)
-![SaaS Operating Model P&L](assets/SaaS%20Operating%20Model%20(P&L).png)
-
-### Scenario Analysis
-![SaaS Scenario Analysis](assets/SaaS%20Scenario%20Analysis%20.png)
-
-
 ## Key Assumptions
 
 Customer growth and churn are modeled as primary revenue drivers
@@ -83,4 +58,28 @@ Leadership should prioritize churn reduction before pursuing aggressive growth t
 Forecasts and budgets should be rebuilt around customer behavior rather than top-line assumptions
 
 This project demonstrates how FP&A teams translate operating data into **decision-relevant insight**, rather than static financial reporting.
+
+## Executive Dashboard
+
+### KPIs & Revenue Drivers
+![SaaS Executive Dashboard Top](assets/SaaS%20Executive%20Dashboard%20Top.png)
+
+### Margins & Profitability Impact
+![SaaS Executive Dashboard Bottom](assets/SaaS%20Executive%20Dashboard%20Bottom.png)
+
+---
+
+## Core Model Drivers
+
+### Assumptions
+![SaaS Assumptions](assets/SaaS%20Assumptions.png)
+
+### Customer & ARR Build
+![SaaS Customer ARR Build](assets/SaaS%20Customer%20ARR%20Build.png)
+
+### Operating Margin (P&L)
+![SaaS Operating Model P&L](assets/SaaS%20Operating%20Model%20(P&L).png)
+
+### Scenario Analysis
+![SaaS Scenario Analysis](assets/SaaS%20Scenario%20Analysis%20.png)
 
