@@ -1,5 +1,6 @@
 # SaaS-FP&A Revenue Decline Diagnostic
 Driver-Based Financial Planning &amp; Executive Performance Analysis 
+View-Only Model (Google Sheets): https://docs.google.com/spreadsheets/d/18n6vxnIcwhgJ9zdCV0_b5v4IeoBYBlg3uhyGDpm3fnk/edit?usp=sharing
 
 ## Business Question 
 
@@ -58,6 +59,14 @@ Leadership should prioritize churn reduction before pursuing aggressive growth t
 Forecasts and budgets should be rebuilt around customer behavior rather than top-line assumptions
 
 This project demonstrates how FP&A teams translate operating data into **decision-relevant insight**, rather than static financial reporting.
+
+---
+
+## Appendix: Model Screenshots (Executive Review Views)
+
+*Screenshots reflect the executive review and decision-support layers of the model.  
+The full underlying model is available via the view-only Google Sheet link above.*
+
 
 ## Executive Dashboard
 
