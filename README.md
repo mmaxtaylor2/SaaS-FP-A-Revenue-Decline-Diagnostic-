@@ -63,7 +63,7 @@ This project demonstrates how FP&A teams translate operating data into **decisio
 
 ---
 
-## Appendix: Model Screenshots (Executive Review Views)
+## Appendix: Model Screenshots 
 
 *Screenshots reflect the executive review and decision-support layers of the model.  
 The full underlying model is available via the view-only Google Sheet link above.*
